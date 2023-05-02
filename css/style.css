@@ -1304,7 +1304,7 @@ li {
 @media (min-width: 768px) {
   .information-container {
     padding-top: 3.4375rem;
-    padding-bottom: 10.0625rem;
+    padding-bottom: 9.75rem;
   }
 }
 
@@ -1460,7 +1460,7 @@ li {
 
 @media (min-width: 768px) {
   .new-second .new-container {
-    padding: 0.6875rem 1.0625rem 9.9375em 0.9375rem;
+    padding: 1rem 1.0625rem 9.9375em 0.9375rem;
   }
 }
 
